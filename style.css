@@ -40,12 +40,19 @@ body {
 
 .logo {
   cursor: pointer;
+  transition: transform var(--animation-duration) ease;
 }
 
 .btn {
   background-color: transparent;
   border: none;
   cursor: pointer;
+  transition: transform var(--animation-duration) ease;
+}
+
+.logo:hover,
+.btn:hover {
+  transform: scale(1.1);
 }
 
 .buttons {
@@ -102,12 +109,33 @@ body {
 }
 
 @media screen and (max-width: 768px) {
+  :root {
+    /* Size */
+    --font-size: 15px;
+  }
+
   .main {
     width: 90%;
+  }
+
+  .logo {
+    width: 110px;
   }
 
   .buttons {
     display: flex;
     flex-direction: column;
+  }
+
+  .colorBtn {
+    font-family: "Signika", sans-serif;
+    font-size: var(--font-size);
+
+    padding: calc(var(--base-space) * 2);
+  }
+
+  .item {
+    font-size: var(--font-size);
+    margin: 5px 15px;
   }
 }
