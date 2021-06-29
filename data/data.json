@@ -4,52 +4,65 @@
       "type": "tshirt",
       "gender": "MALE",
       "size": "LARGE",
-      "color": "BLUE",
-      "image": "./imgs/thirt-blue.png"
+      "color": "　BLUE　",
+      "image": "./imgs/tshirt-blue.png"
     },
     {
       "type": "pants",
       "gender": "FEMALE",
       "size": "SMALL",
-      "color": "PINK",
+      "color": "　PINK　",
       "image": "./imgs/pants-pink.png"
     },
     {
-      "type": "scoks",
+      "type": "socks",
       "gender": "FEMALE",
       "size": "LARGE",
       "color": "YELLOW",
-      "image": "./imgs/scoks-yellow.png"
+      "image": "./imgs/socks-yellow.png"
     },
     {
       "type": "tshirt",
       "gender": "FEMALE",
       "size": "LARGE",
-      "color": "BLUE",
-      "image": "./imgs/thirt-blue.png"
+      "color": "　BLUE　",
+      "image": "./imgs/tshirt-blue.png"
     },
     {
-      "type": "scoks",
+      "type": "socks",
       "gender": "MALE",
       "size": "SMALL",
-      "color": "PINK",
-      "image": "./imgs/scoks-pink.png"
+      "color": "　PINK　",
+      "image": "./imgs/socks-pink.png"
     },
     {
       "type": "tshirt",
       "gender": "FEMALE",
       "size": "LARGE",
       "color": "YELLOW",
-      "image": "./imgs/thirt-yellow.png"
+      "image": "./imgs/tshirt-yellow.png"
     },
     {
       "type": "pants",
       "gender": "MALE",
       "size": "LARGE",
-      "color": "BLUE",
+      "color": "　BLUE　",
       "image": "./imgs/pants-blue.png"
     },
-    
+    {
+      "type": "socks",
+      "gender": "FEMALE",
+      "size": "SMALL",
+      "color": "YELLOW",
+      "image": "./imgs/socks-yellow.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "FEMALE",
+      "size": "LARGE",
+      "color": "　PINK　",
+      "image": "./imgs/tshirt-pink.png"
+    },
     {
       "type": "pants",
       "gender": "MALE",
@@ -58,111 +71,95 @@
       "image": "./imgs/pants-yellow.png"
     },
     {
-      "type": "scoks",
+      "type": "pants",
       "gender": "FEMALE",
       "size": "LARGE",
-      "color": "YELLOW",
-      "image": "./imgs/scoks-yellow.png"
+      "color": "　PINK　",
+      "image": "./imgs/pants-pink.png"
     },
     {
       "type": "tshirt",
       "gender": "FEMALE",
       "size": "SMALL",
       "color": "YELLOW",
-      "image": "./imgs/thirt-yellow.png"
+      "image": "./imgs/tshirt-yellow.png"
     },
     {
-      "type": "scoks",
+      "type": "socks",
       "gender": "MALE",
       "size": "SMALL",
-      "color": "PINK",
-      "image": "./imgs/scoks-pink.png"
+      "color": "　PINK　",
+      "image": "./imgs/socks-pink.png"
     },
     {
       "type": "tshirt",
       "gender": "MALE",
       "size": "SMALL",
-      "color": "PINK",
-      "image": "./imgs/thirt-pink.png"
+      "color": "　PINK　",
+      "image": "./imgs/tshirt-pink.png"
     },
     {
       "type": "pants",
       "gender": "MALE",
       "size": "LARGE",
-      "color": "BLUE",
+      "color": "　BLUE　",
       "image": "./imgs/pants-blue.png"
     },
     {
       "type": "tshirt",
       "gender": "FEMALE",
       "size": "SMALL",
-      "color": "PINK",
-      "image": "./imgs/thirt-pink.png"
+      "color": "　PINK　",
+      "image": "./imgs/tshirt-pink.png"
     },
     {
-      "type": "tshirt",
-      "gender": "FEMALE",
-      "size": "LARGE",
-      "color": "PINK",
-      "image": "./imgs/thirt-pink.png"
-    },
-    {
-      "type": "scoks",
+      "type": "socks",
       "gender": "FEMALE",
       "size": "LARGE",
       "color": "YELLOW",
-      "image": "./imgs/scoks-yellow.png"
+      "image": "./imgs/socks-yellow.png"
     },
     {
       "type": "pants",
       "gender": "MALE",
       "size": "SMALL",
-      "color": "PINK",
+      "color": "　PINK　",
       "image": "./imgs/pants-pink.png"
+    },
+    {
+      "type": "socks",
+      "gender": "MALE",
+      "size": "LARGE",
+      "color": "　BLUE　",
+      "image": "./imgs/socks-blue.png"
     },
     {
       "type": "pants",
       "gender": "MALE",
       "size": "LARGE",
-      "color": "PINK",
+      "color": "　PINK　",
       "image": "./imgs/pants-pink.png"
     },
     {
-      "type": "pants",
+      "type": "socks",
       "gender": "FEMALE",
       "size": "LARGE",
-      "color": "PINK",
-      "image": "./imgs/pants-pink.png"
-    },
-
-    {
-      "type": "scoks",
-      "gender": "MALE",
-      "size": "SMALL",
-      "color": "BLUE",
-      "image": "./imgs/scoks-blue.png"
-    },
-    {
-      "type": "scoks",
-      "gender": "MALE",
-      "size": "LARGE",
-      "color": "BLUE",
-      "image": "./imgs/scoks-blue.png"
-    },
-    {
-      "type": "scoks",
-      "gender": "FEMALE",
-      "size": "SMALL",
       "color": "YELLOW",
-      "image": "./imgs/scoks-yellow.png"
+      "image": "./imgs/socks-yellow.png"
     },
-    
     {
-      "type": "scoks",
+      "type": "socks",
       "gender": "FEMALE",
       "size": "LARGE",
-      "color": "PINK",
-      "image": "./imgs/scoks-pink.png"
+      "color": "　PINK　",
+      "image": "./imgs/socks-pink.png"
+    },
+    {
+      "type": "socks",
+      "gender": "MALE",
+      "size": "SMALL",
+      "color": "　BLUE　",
+      "image": "./imgs/socks-blue.png"
     }
   ]
 }
