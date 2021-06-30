@@ -1,5 +1,5 @@
-# <center>MINI-SHOPPING</center>
+<div align="center"><img src="./imgs/logo.png"></div>
+<div align="center"><h1>MINI-SHOPPING 🛍</h1></div>
 
-<center>[Link] : https://geena-keem.github.io/mini-shopping/</center> 
-<div align="center">JS를 이용한 간단한 web mini-shopping 구현!</div>
+<div align="center">[Link] : https://geena-keem.github.io/mini-shopping/</div> 
 <img src="./imgs/mini-shopping.png">
