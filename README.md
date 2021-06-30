@@ -4,7 +4,7 @@
 <div align="center">[Link] : https://geena-keem.github.io/mini-shopping/</div> 
 <img src="./imgs/mini-shopping.png">
 
-[Elements]
+**[Elements]**
 
 ```
 .
@@ -20,7 +20,7 @@
    └─ data.json
 ```
 
-[Built with]
+**[Built with]**
 
 ```
 - HTML
