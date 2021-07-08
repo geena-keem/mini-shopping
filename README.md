@@ -14,6 +14,14 @@
 - 버튼을 누르면 옷의 종류와 색상별로 필터링
 ```
 
+**[Technology]**
+
+```
+- HTML5
+- CSS3
+- JavaScript
+```
+
 **[Project structure]**
 
 ```
@@ -28,14 +36,6 @@
    └─ ...
 └─ data
    └─ data.json
-```
-
-**[Technology]**
-
-```
-- HTML5
-- CSS3
-- JavaScript
 ```
 
 **[Reference]**
